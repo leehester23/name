@@ -2,7 +2,7 @@
 <html>
   <head>
    
-    <title> html redume </title>
+    <title> html resume </title>
   </head>
   <body>
   hello
